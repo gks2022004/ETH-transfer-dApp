@@ -21,6 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/73209159/148694127-adfa0731-dcdd-4d23-beea-c356d9deac49.png)
+"C:\Users\jordy\OneDrive\Pictures\Screenshots\Screenshot (150).png"
 
 If you like the project, support by giving it a star.
