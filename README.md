@@ -20,7 +20,7 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Preview
+![Screenshot (150)](https://github.com/gks2022004/ETH-transfer-dApp/assets/94637265/14367764-10c1-4044-b40c-b97b04dd3b62)
 
-![image](https://github.com/gks2022004/ETH-transfer-dApp/blob/main/public/Screenshot%20(150).png})
 
 If you like the project, support by giving it a star.
