@@ -21,6 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Preview
 
-"C:\Users\jordy\OneDrive\Pictures\Screenshots\Screenshot (150).png"
+![image](https://github.com/gks2022004/ETH-transfer-dApp/blob/main/public/Screenshot%20(150).png})
 
 If you like the project, support by giving it a star.
